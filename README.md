@@ -23,56 +23,6 @@ The core objective of this project is to leverage image analysis for the precise
 ### Installation
 
 1. Clone this repository to your local machine using git:
-# RFB-SedimentDepth-Prediction-ImgProc
-
-This repository is dedicated to the development and implementation of advanced image processing techniques for predicting sediment depth in Redox Flow Batteries (RFB). Utilizing MATLAB, this project aims to enhance the accuracy of sediment layer detection and measurement, facilitating improved management and maintenance of RFBs.
-
-## Project Overview
-
-The core objective of this project is to leverage image analysis for the precise detection and measurement of sediment layers within RFB systems. Through detailed image processing and analysis, we aim to understand the growth patterns of sediment layers over time, contributing significantly to the optimization of RFB performance and longevity.
-
-## Features
-
-- **Advanced Edge Detection**: Implementing MATLAB's edge detection algorithms to accurately identify the boundaries of sediment layers.
-- **Thickness Measurement**: Quantitative analysis of sediment layer thickness using image processing, providing critical data for RFB maintenance.
-- **Filter Optimization**: Comparative analysis of different image filters to enhance the quality of sediment layer detection under various conditions.
-- **Noise Detection and Correction**: Sophisticated noise detection strategies to ensure the accuracy of sediment depth predictions.
-
-## Getting Started
-
-### Prerequisites
-
-- MATLAB (2020a or newer recommended)
-- Familiarity with image processing concepts and MATLAB programming
-
-### Installation
-
-1. Clone this repository to your local machine using git:
-# RFB-SedimentDepth-Prediction-ImgProc
-
-This repository is dedicated to the development and implementation of advanced image processing techniques for predicting sediment depth in Redox Flow Batteries (RFB). Utilizing MATLAB, this project aims to enhance the accuracy of sediment layer detection and measurement, facilitating improved management and maintenance of RFBs.
-
-## Project Overview
-
-The core objective of this project is to leverage image analysis for the precise detection and measurement of sediment layers within RFB systems. Through detailed image processing and analysis, we aim to understand the growth patterns of sediment layers over time, contributing significantly to the optimization of RFB performance and longevity.
-
-## Features
-
-- **Advanced Edge Detection**: Implementing MATLAB's edge detection algorithms to accurately identify the boundaries of sediment layers.
-- **Thickness Measurement**: Quantitative analysis of sediment layer thickness using image processing, providing critical data for RFB maintenance.
-- **Filter Optimization**: Comparative analysis of different image filters to enhance the quality of sediment layer detection under various conditions.
-- **Noise Detection and Correction**: Sophisticated noise detection strategies to ensure the accuracy of sediment depth predictions.
-
-## Getting Started
-
-### Prerequisites
-
-- MATLAB (2020a or newer recommended)
-- Familiarity with image processing concepts and MATLAB programming
-
-### Installation
-
-1. Clone this repository to your local machine using git:
 2. Open the project in MATLAB.
 
 ### Usage
